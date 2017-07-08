@@ -1,0 +1,13 @@
+spring:
+  session:
+    store-type: none
+
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      database: test
+
+
+
+
